@@ -1,0 +1,23 @@
+
+.header {
+  background-color:#ffffff;
+
+
+
+}
+.name {
+  background-color:#4aaaa5;
+  font-family: "Georgia", Times, serif;
+  color:#ffffff;
+  padding-left: 5px;
+  margin-left: 50px;
+  margin-right: 80%;
+}
+.home-page {
+ background-image: url("http://www.webdesigndev.com/wp-content/uploads/2015/02/Subtle-Light-Tile-Pattern-Vol4.jpg");
+
+}
+
+.footer {
+  background-color:#666666;
+}
